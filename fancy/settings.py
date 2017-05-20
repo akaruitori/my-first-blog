@@ -25,7 +25,7 @@ SECRET_KEY = 's+6#(fx8w$5=*!dmp8w_-7ftk38^q@8x9n9yi17e&--u#x(i$p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'akaruitori.pythonanywhere.com']
 
 
 # Application definition
